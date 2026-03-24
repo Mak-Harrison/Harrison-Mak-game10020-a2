@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|c:\\users\\harri\\onedrive\\documents\\github\\harrison-mak-game10020-a2\\assets\\scripts\\standalone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\standalone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|c:\\users\\harri\\onedrive\\documents\\github\\harrison-mak-game10020-a2\\assets\\scripts\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\assets\\scripts\\mazegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB164A65-9D41-1894-ED1F-03F1C7032239}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mazegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Standalone.cs",
+              "DocumentMoniker": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\Standalone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Standalone.cs",
+              "ToolTip": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\Standalone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Standalone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:29:49.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MazeGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\MazeGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MazeGameManager.cs",
+              "ToolTip": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\MazeGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MazeGameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:58:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\Player.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs*",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:54:13.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreasureChest.cs",
+              "DocumentMoniker": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\TreasureChest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TreasureChest.cs",
+              "ToolTip": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\TreasureChest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TreasureChest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:52:48.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable.cs",
+              "ToolTip": "C:\\Users\\Harri\\OneDrive\\Documents\\GitHub\\Harrison-Mak-game10020-a2\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IInteractable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:50:25.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

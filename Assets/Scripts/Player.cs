@@ -40,4 +40,22 @@ public class Player : MonoBehaviour
         Debug.Log("Player died!");
         gameObject.SetActive(false); 
     }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            // Check for interactables in front of the player
+            Ray ray = new Ray(transform.position, transform.forward);
+            if (Physics.Raycast(ray, out RaycastHit hit, 5f))
+            {
+                // Look for the interface, NOT the specific 'TreasureChest' class
+                IInteractable interactable = hit.collider.GetComponent<IInteractable>();
+                if (interactable != null)
+                {
+                    interactable.Interact();
+                }
+            }
+        }
+    }
 }
