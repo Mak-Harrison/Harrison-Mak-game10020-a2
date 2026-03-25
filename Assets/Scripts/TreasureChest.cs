@@ -10,12 +10,18 @@ public class TreasureChest : MonoBehaviour, IInteractable
 
     public void Interact()
     {
-        Debug.Log("Chest Opened!");
+        // Find the inventory component on the player
+        PlayerInventory inventory = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInventory>();
 
-            // Trigger the UI/Health update
-            onChestOpened?.Invoke();
-
-            // Make the chest disappear
+        if (inventory != null && inventory.HasRequiredItems())
+        {
+            Debug.Log("Inventory Check Passed! Firing Event...");
+            onChestOpened?.Invoke(); // THE EVENT FIRES HERE 
             gameObject.SetActive(false);
+        }
+        else
+        {
+            Debug.Log("Event Blocked: You need the Key and the Map!");
+    }
     }
 }
