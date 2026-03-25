@@ -41,7 +41,7 @@ public class Player : MonoBehaviour
         gameObject.SetActive(false); 
     }
 
-    void Update()
+    public void Update()
     {
         if (Input.GetKeyDown(KeyCode.E))
         {

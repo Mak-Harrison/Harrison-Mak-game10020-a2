@@ -6,7 +6,7 @@ public class MazeGameManager : MonoBehaviour
     [SerializeField] private float currentHealth = 100f;
     [SerializeField] private TextMeshProUGUI healthDisplay;
 
-    void Update()
+    public void Update()
     {
         // Simple health drain to create urgency in the maze
         if (currentHealth > 0)
